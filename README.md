@@ -7,6 +7,9 @@ A simple Unlocker script for QBCore that gives set jobs the ablity to obtain key
 - press "L" to unlock the vehicle (what ever key is bound to vehiclelocks)
 - enter the vehicle
 
+# Preview
+* [Click Here To Watch Preview](https://youtu.be/k7gi1LtwvqQ)
+
 # Installation
 * Paste This Inside qb-core/shared/items.lua
 
