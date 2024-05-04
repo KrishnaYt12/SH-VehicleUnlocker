@@ -21,5 +21,5 @@ A simple Unlocker script for QBCore that gives set jobs the ablity to obtain key
 
 # Dependency
 * [qb-core](https://github.com/qbcore-framework/qb-core)
-* [qb-inventory](https://github.com/qbcore-framework/qb-core)
+* [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
 * [qb-vehiclekeys](https://github.com/qbcore-framework/qb-vehiclekeys)
