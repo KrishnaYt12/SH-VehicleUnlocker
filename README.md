@@ -13,9 +13,9 @@ A simple Unlocker script for QBCore that gives set jobs the ablity to obtain key
 # Installation
 * Paste This Inside qb-core/shared/items.lua
 
-  -- Vehicle Unlocker
+  **-- Vehicle Unlocker
 
-  vehicleunlockkit            = { name = 'vehicleunlockkit', label = 'Vehicle Unlocker Kit', weight = 0, type = 'item', image = 'vehicleunlockkit.png', unique = true, useable = true, shouldClose = false, combinable = nil, description = 'The Vehicle Unlocker Kit To Unlock Nearby Vehicle With This Tool.' },
+  vehicleunlockkit            = { name = 'vehicleunlockkit', label = 'Vehicle Unlocker Kit', weight = 0, type = 'item', image = 'vehicleunlockkit.png', unique = true, useable = true, shouldClose = false, combinable = nil, description = 'The Vehicle Unlocker Kit To Unlock Nearby Vehicle With This Tool.' },**
 
 * Go To Your qb-inventory/html/images And Paste **vehicleunlockkit.png**
 
